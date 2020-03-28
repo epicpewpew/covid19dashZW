@@ -1,0 +1,6 @@
+date,Fake News Debunked, Active +ve Cases, Confirmed Deaths,Confirmed Negative,Total Tests Performed,Recovered, Cumulative +ve,# of Tests, +ve Result, Inconclusive
+Mar 23 2020,11,2,1,0,0,0,2,0,0,0
+Mar 24 2020,12,2,1,0,0,0,3,0,0,0
+Mar 25 2020,12,2,1,96,100,0,3,0,0,0
+Mar 26 2020,14,4,1,159,165,0,5,65,2,1
+Mar 27 2020,14,6,1,181,188,0,7,23,2,0
